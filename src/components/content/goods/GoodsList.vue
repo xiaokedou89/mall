@@ -23,6 +23,7 @@ export default {
 <style scoped>
 .goods {
     display: flex;
+    width: 100%;
     flex-wrap: wrap;
     justify-content: space-around;
 }
